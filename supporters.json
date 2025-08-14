@@ -1,4 +1,6 @@
-[
-  { "name": "Joe Puhlman", "title": "Archivist" },
-  { "name": "Jacob", "title": "Archivist" }
-]
+{
+  "supporters": [
+    { "name": "Joe Puhlman", "title": "Archivist" },
+    { "name": "Jacob", "title": "Archivist" }
+  ]
+}
