@@ -1,6 +1,8 @@
 {
   "supporters": [
+    { "name": "Duncan", "title": "Vaultkeeper" },
     { "name": "Joe Puhlman", "title": "Archivist" },
     { "name": "Jacob", "title": "Archivist" }
   ]
 }
+
