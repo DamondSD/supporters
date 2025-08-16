@@ -1,11 +1,18 @@
 {
   "supporters": [
     { "name": "Duncan", "title": "Vaultkeeper" },
+    { "name": "Guuache", "title": "Vaultkeeper" },
     { "name": "TheEmpire", "title": "Lorebinder" },
     { "name": "Tango'One", "title": "Lorebinder" },
+    { "name": "Jamonster66", "title": "Lorebinder" },
+    { "name": "Mikael Koffman", "title": "Lorebinder" },
+    { "name": "JayJay", "title": "Lorebinder" },
+    { "name": "Raz", "title": "Lorebinder" },
     { "name": "Joe Puhlman", "title": "Archivist" },
-    { "name": "Jacob", "title": "Archivist" }
+    { "name": "Jacob", "title": "Archivist" },
+    { "name": "Worthless Person", "title": "Archivist" }
   ]
 }
+
 
 
