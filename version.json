@@ -1,8 +1,9 @@
 {
-  "version": "4.0.3",
-  "notes": "Corrected Patreon OAuth to set correct tiers.",
-  "date": "2025-15-08"
+  "version": "4.0.5",
+  "notes": "Corrected UUID to prevent overwrites",
+  "date": "2025-23-08"
 }
+
 
 
 
