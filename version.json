@@ -1,8 +1,9 @@
 {
-  "version": "4.0.5",
-  "notes": "Corrected UUID to prevent overwrites",
-  "date": "2025-23-08"
+  "version": "4.1.0",
+  "notes": "For full changelog, see the Discord. Voice recognition accepts multiple languages. None renamed to Archivest. Full Chat redesign. Live scroll with settings.",
+  "date": "2025-30-08"
 }
+
 
 
 
